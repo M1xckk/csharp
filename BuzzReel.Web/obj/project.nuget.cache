@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sxBlUgpvr/RSGbaVx5VsSCkiGiqTHVnC/yEa0DbHLU9mSwcRvRN2BqXgX8m/xzaNhDiWzwOmY5PKRh2O8DPC6A==",
+  "dgSpecHash": "8FIXc0Lc+bwVXxWidtEMgOZlmFjHJNzohtyFtH30noZb4/yHplyqUwn4NtIGGo6+9XLUPjg3QPO7noycOyrVnA==",
   "success": true,
-  "projectFilePath": "/Users/mxcke1k/Desktop/COMP4514/BuzzReel/BuzzReel.Web/BuzzReel.Web.csproj",
+  "projectFilePath": "/Users/mxcke1k/Desktop/csharp/BuzzReel.Web/BuzzReel.Web.csproj",
   "expectedPackageFiles": [
     "/Users/mxcke1k/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/mxcke1k/.nuget/packages/microsoft.aspnetcore.diagnostics.entityframeworkcore/8.0.3/microsoft.aspnetcore.diagnostics.entityframeworkcore.8.0.3.nupkg.sha512",

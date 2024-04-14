@@ -2760,11 +2760,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mxcke1k/Desktop/COMP4514/BuzzReel/BuzzReel.Web/BuzzReel.Web.csproj",
+      "projectUniqueName": "/Users/mxcke1k/Desktop/csharp/BuzzReel.Web/BuzzReel.Web.csproj",
       "projectName": "BuzzReel.Web",
-      "projectPath": "/Users/mxcke1k/Desktop/COMP4514/BuzzReel/BuzzReel.Web/BuzzReel.Web.csproj",
+      "projectPath": "/Users/mxcke1k/Desktop/csharp/BuzzReel.Web/BuzzReel.Web.csproj",
       "packagesPath": "/Users/mxcke1k/.nuget/packages/",
-      "outputPath": "/Users/mxcke1k/Desktop/COMP4514/BuzzReel/BuzzReel.Web/obj/",
+      "outputPath": "/Users/mxcke1k/Desktop/csharp/BuzzReel.Web/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mxcke1k/.nuget/NuGet/NuGet.Config"
